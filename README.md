@@ -1,4 +1,4 @@
-# # 🥔 Potato Disease Classifier
+## 🥔 Potato Disease Classifier
 
 A Deep Learning based web application that detects potato leaf diseases from uploaded images using Convolutional Neural Networks (CNN).  
 This project helps farmers, students, and researchers quickly identify common potato plant diseases.
